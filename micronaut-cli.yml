@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: reactive.endpoint
+---
+testFramework: junit
+sourceLanguage: java
